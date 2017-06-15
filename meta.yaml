@@ -1,0 +1,6 @@
+name: Mobile Detect
+version: 0.1
+description: Detect device details based on user agent using Mobile Detect library.
+addon_url: https://github.com/geminilabs
+developer: Gemini Labs
+developer_url: http://geminilabs.io

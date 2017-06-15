@@ -1,0 +1,8 @@
+{
+    "name": "geminilabs/mobile-detect",
+    "description": "Statamic 2 module using Mobile Detect library to detect device type information.",
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8"
+    },
+    "minimum-stability": "dev"
+}
